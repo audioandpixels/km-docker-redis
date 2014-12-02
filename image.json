@@ -1,6 +1,6 @@
 {
   "name": "redis",
-  "version": "0.1.0",
+  "version": "2.8.17",
   "description": "Official Docker Redis database.",
   "author": "Kitematic",
   "logo": "logo.png",
